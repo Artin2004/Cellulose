@@ -1,6 +1,6 @@
 # 🌱 Cellulose
 
-Cellulose is a modern, responsive, frontend-only web application designed to be your ultimate gardening companion. Built for a hackathon, Cellulose helps you search for plants, manage your garden, and receive smart, automated care reminders.
+Cellulose is a modern frontendnonly (for now) web application designed to be your ultimate gardening companion. Built for a hackathon, Cellulose helps you search for plants, manage your garden, and receive smart, automated care reminders.
 
 Features
 **Plant Database**: Search through a library of plants to learn about their sunlight, soil, and watering needs.
